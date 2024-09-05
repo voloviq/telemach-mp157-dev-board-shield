@@ -37,4 +37,5 @@
   (lib (name "Smd_Dip_Switch")(type "KiCad")(uri "${KICAD7_SYMBOL_DIR}/Dip_Switch/Smd/Smd_Dip_Switch.kicad_sym")(options "")(descr ""))
   (lib (name "Capacitors_Smd0603")(type "KiCad")(uri "${KICAD7_SYMBOL_DIR}/Capacitors/Smd_0603/Capacitors_Smd0603.kicad_sym")(options "")(descr ""))
   (lib (name "Stm32_Microcontrollers")(type "KiCad")(uri "${KICAD7_SYMBOL_DIR}/Microcontrollers/ST_Microelectronics/Stm32_Microcontrollers.kicad_sym")(options "")(descr ""))
+  (lib (name "Header_Socket_2_54mm")(type "KiCad")(uri "${KICAD8_SYMBOL_DIR}/Connectors/Header_Socket_2_54mm/Header_Socket_2_54mm.kicad_sym")(options "")(descr ""))
 )

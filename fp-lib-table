@@ -37,4 +37,5 @@
   (lib (name "Smd_Ptc_Fuses")(type "KiCad")(uri "${KICAD7_3DMODEL_DIR}/Fuses/Smd_Ptc_Fuses/Smd_Ptc_Fuses.pretty")(options "")(descr ""))
   (lib (name "Smd_Dip_Switch")(type "KiCad")(uri "${KICAD7_3DMODEL_DIR}/Dip_Switch/Smd/Smd_Dip_Switch.pretty")(options "")(descr ""))
   (lib (name "Symbols")(type "KiCad")(uri "${KICAD7_3DMODEL_DIR}/Symbols/Symbols.pretty")(options "")(descr ""))
+  (lib (name "Header_Socket_2_54mm")(type "KiCad")(uri "${KICAD7_3DMODEL_DIR}/Connectors/Header_Socket_2_54mm/Header_Socket_2_54mm.pretty")(options "")(descr ""))
 )

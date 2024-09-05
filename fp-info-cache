@@ -1,4 +1,4 @@
-2559502489685981
+2638832881505651
 ADC_DAC
 ADC121S021CIMF_SOT23_6
 
@@ -20,6 +20,13 @@ Digital IC
 0
 16
 16
+ADC_DAC
+DAC084S085CIMMX_NOPB
+
+
+0
+10
+10
 ADC_DAC
 MAX11136
 
@@ -1036,6 +1043,13 @@ Communication Interface
 8
 8
 Communication_Interfaces
+SN65HVD230DR
+
+
+0
+8
+8
+Communication_Interfaces
 SP202_SO16
 
 
@@ -1049,6 +1063,13 @@ THT DIP DIL PDIP 2.54mm 7.62mm 300mil
 0
 16
 16
+Communication_Interfaces
+SP485ECN-L
+RS485/422
+Communication Interface
+0
+8
+8
 Communication_Interfaces
 SP3077EEN-L
 RS485/422
@@ -1792,6 +1813,13 @@ Diode
 4
 4
 Diodes
+ABS210
+ABS210 2A 1kB Bridge Rectifier
+Diode
+0
+4
+4
+Diodes
 AN431AN-ATRG1_SOT23-3
 
 Bipolar Transistor
@@ -1805,6 +1833,13 @@ APFA3011-AK13_F
 0
 6
 6
+Diodes
+AZ431AN-ATRE1
+
+Bipolar Transistor
+0
+3
+3
 Diodes
 B340-13-F_SMC
 
@@ -2156,6 +2191,20 @@ DO214AC
 2
 2
 Diodes
+FR107W
+
+Diode
+0
+2
+2
+Diodes
+FYL-3019RGW1A-CC
+Transil
+Diode
+0
+3
+3
+Diodes
 FYL-5014UWC1C-15
 
 Diode
@@ -2257,6 +2306,13 @@ Diodes
 L-59EGW-CA
 Kingbright L-59 Series
 LED Diodes
+0
+3
+3
+Diodes
+L-115WEGW-CA
+Transil
+Diode
 0
 3
 3
@@ -2639,8 +2695,22 @@ LED Diode
 2
 2
 Diodes
+RS1M
+
+ES07D-GS08 
+0
+2
+2
+Diodes
 S1BFL
 S1BFL_SOD123
+Diode
+0
+2
+2
+Diodes
+SB3200
+General Purpose Rectifier
 Diode
 0
 2
@@ -2719,6 +2789,13 @@ Diodes
 SMAJ33CA_SMD_DO214AC
 Transil
 Diode
+0
+2
+2
+Diodes
+SMAJ36A-E3
+
+
 0
 2
 2
@@ -2894,6 +2971,13 @@ Diodes
 UCLAMP3301D.TCT_SOD323
 SOD-323
 SOD-323
+0
+2
+2
+Diodes
+ZMY12
+Diode, MELF, DO-213AB
+Diode MELF DO-213AB
 0
 2
 2
@@ -3437,6 +3521,13 @@ FPC_Connector
 14
 13
 Goldpin
+DS1031-01-1*4P8BV31-3A
+
+Header
+0
+4
+4
+Goldpin
 Goldpin-1x14x2.54mm
 Goldpin 14
 Connector
@@ -3541,6 +3632,27 @@ Connector
 0
 2
 2
+Goldpin
+Goldpin_2_13_2mm
+
+Header Socket
+0
+26
+26
+Goldpin
+Goldpin_2_13_2mm_SMT
+
+Header Socket
+0
+26
+26
+Goldpin
+Goldpin_2_16_2mm
+
+Header Socket
+0
+32
+32
 Goldpin
 Goldpin_2x7_1.27mm_62201421121
 <b> WR-PHD</b> <BR>1.27 mm THT Dual Pin Header,14 Pins<b>
@@ -3716,6 +3828,125 @@ pin header
 0
 26
 26
+Header_Socket_2_54mm
+Heade_Socket_1x2xP2_54mm_90deg
+
+Goldpin
+0
+2
+2
+Header_Socket_2_54mm
+Heade_Socket_1x6xP2_54mm_90deg
+
+Goldpin
+0
+6
+6
+Header_Socket_2_54mm
+Heade_Socket_1x8xP2_54mm_90deg
+
+Goldpin
+0
+8
+8
+Header_Socket_2_54mm
+Heade_Socket_1x9xP2_54mm_90deg
+
+Goldpin
+0
+9
+9
+Header_Socket_2_54mm
+Heade_Socket_1x10xP2_54mm_90deg
+
+Goldpin
+0
+10
+10
+Header_Socket_2_54mm
+Header_Socket_1x2x2_54mm
+Header_Socket_1x2x2_54mm
+Connector
+0
+2
+2
+Header_Socket_2_54mm
+Header_Socket_1x3x2_54mm
+Header_Socket_1x3x2_54mm
+Connector
+0
+3
+3
+Header_Socket_2_54mm
+Header_Socket_1x6x2_54mm
+Through hole straight socket strip, 1x06, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
+Through hole socket strip THT 1x06 2.54mm single row
+0
+6
+6
+Header_Socket_2_54mm
+Header_Socket_1x9x2_54mm
+Through hole straight socket strip, 1x06, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
+Through hole socket strip THT 1x06 2.54mm single row
+0
+9
+9
+Header_Socket_2_54mm
+Header_Socket_2x4x2_54mm
+Through hole straight socket strip, 1x06, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
+Through hole socket strip THT 1x06 2.54mm single row
+0
+8
+8
+Header_Socket_2_54mm
+Header_Socket_2x5x2_54mm
+Through hole straight socket strip, 1x06, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
+Through hole socket strip THT 1x06 2.54mm single row
+0
+10
+10
+Header_Socket_2_54mm
+Header_Socket_2x8x2_54mm
+Through hole straight socket strip, 1x06, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
+Through hole socket strip THT 1x06 2.54mm single row
+0
+16
+16
+Header_Socket_2_54mm
+Header_Socket_2x13x2_54mm
+Through hole straight socket strip, 1x06, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
+Through hole socket strip THT 1x06 2.54mm single row
+0
+26
+26
+Header_Socket_2_54mm
+Header_Socket_2x17x2_54mm
+Through hole straight socket strip, 1x06, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
+Through hole socket strip THT 1x06 2.54mm single row
+0
+34
+34
+Header_Socket_2_54mm
+Header_Socket_2x20x2_54mm
+Through hole straight socket strip, 1x06, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
+Through hole socket strip THT 1x06 2.54mm single row
+0
+40
+40
+Header_Socket_2_54mm
+Header_Socket_2x30x2_54mm
+Through hole straight socket strip, 2x30, 2.54mm pitch, double row
+Through hole socket strip THT 2x30 2.54mm double row
+0
+60
+60
+Header_Socket_2_54mm
+Header_Socket_Vertical_2x20x2_54mm
+Through hole straight socket strip, 1x06, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
+Through hole socket strip THT 1x06 2.54mm single row
+0
+40
+40
 Inductors
 1uH-1.4A-78438313010
 
@@ -4522,6 +4753,13 @@ XEL6060-272MEC
 2
 2
 Inductors
+XR6*8-3R3M-L
+Discrete Inductor 3,3uH; 500mA; 1Ω; THT; ±10%; Raster:5mm
+Inductor
+0
+2
+2
+Inductors
 mc014h60
 
 
@@ -4698,6 +4936,13 @@ LDO Regulator
 4
 Linear
 LM338-TO254P1054X470X1955-3
+
+
+0
+3
+3
+Linear
+LM7805C
 
 
 0
@@ -5676,6 +5921,13 @@ Relay
 0
 4
 4
+Relays
+G5Q-14-EU_12DC
+General Purpose Relays SPDT 12VDC ClassF Sealed
+
+0
+5
+5
 Relays
 G6K-2F-Y-3DC
 
@@ -7910,6 +8162,13 @@ VRegulator
 5
 5
 Switching
+GR1937E
+AC-DC Regulator
+Optocouplers DIP Package
+0
+8
+8
+Switching
 L5972D_SO8
 
 Switching Voltage Regulator
@@ -7930,6 +8189,13 @@ Switching Voltage Regulator
 0
 8
 8
+Switching
+LM2575T-5.0
+
+
+0
+5
+5
 Switching
 LM2575_D2PAK_CASE_936A-5Pins
 LM2575_D2PAK_CASE_936A-5Pins
@@ -9338,6 +9604,20 @@ WR-TBL Serie 322 - 3.81 mm Horizontal PCB Header
 4
 4
 TerminalBlock_P5.00_P5.08
+2EDGRC-5.08-02P-14
+Terminal Block Phoenix MKDS-1,5-2-5.08, 2 pins, pitch 5.08mm, size 10.2x9.8mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/100425.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-1,5-2-5.08 pitch 5.08mm size 10.2x9.8mm^2 drill 1.3mm pad 2.6mm
+0
+2
+2
+TerminalBlock_P5.00_P5.08
+2EDGRC-5.08-04P-14
+simple 4-pin terminal block, pitch 5.08mm, revamped version of bornier4
+terminal block bornier4
+0
+4
+4
+TerminalBlock_P5.00_P5.08
 284514-2
 Terminal Block, Header Assembly Straight, Closed Ends 3.5mm Pitch
 TE Connector Block
@@ -9449,6 +9729,20 @@ DG301-5.0-09P-12-00A(H)
 0
 9
 9
+TerminalBlock_P5.00_P5.08
+DG2204V-5.0-03P
+
+
+0
+6
+3
+TerminalBlock_P5.00_P5.08
+DG2204V-5.0-10P
+
+
+0
+20
+10
 TerminalBlock_P5.00_P5.08
 ML253-5-D-LI-GY
 
@@ -9953,6 +10247,13 @@ terminal block bornier6
 0
 6
 6
+TerminalBlock_P5.00_P5.08
+XY2500V-C(5.08)-4PIN
+simple 4-pin terminal block, pitch 5.08mm, revamped version of bornier4
+terminal block bornier4
+0
+4
+4
 Test_Points
 Test_Point_0.8_1.2mm_rectangular
 
@@ -10114,6 +10415,13 @@ Bipolar Transistor
 0
 3
 3
+Transistor_Bipolar
+BC846AS-7
+SOT-363
+SOT-363
+0
+6
+6
 Transistor_Bipolar
 BC846_SOT23
 
@@ -10444,6 +10752,13 @@ LTV-814S-TA1
 4
 4
 Transoptors
+MOC3052
+<b>Dual In Line Package</b>
+
+0
+6
+6
+Transoptors
 PC357N4J000F
 Optocoupler PhototransistorSize SOP4 SMT 4pins
 
@@ -10513,6 +10828,13 @@ TLP291-4(GB,E)_SO16
 0
 16
 16
+Transoptors
+TLP620_GB_F
+
+
+0
+4
+4
 Transoptors
 VOM452T
 
