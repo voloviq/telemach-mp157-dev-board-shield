@@ -1,0 +1,19 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "62982fd9-9fb6-4a56-b1ba-838a8fc0fb67")
+	(paper "A3")
+	(title_block
+		(title "Telemach mp157 development board shield")
+		(date "2024-09-05")
+		(rev "V1.0")
+		(company "MW Sofjan")
+	)
+	(lib_symbols)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
